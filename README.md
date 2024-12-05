@@ -89,9 +89,9 @@ SOFTWARE.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@suami_z](https://twitter.com/suami_z)
 
-Project Link: [https://github.com/yourusername/ai-blog-post-generator](https://github.com/yourusername/ai-blog-post-generator)
+Project Link: [https://github.com/xhanafix/ai-blog-post-generator](https://github.com/xhanafix/ai-blog-post-generator)
 
 ## Acknowledgments
 
