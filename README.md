@@ -91,7 +91,7 @@ SOFTWARE.
 
 Your Name - [@suami_z](https://twitter.com/suami_z)
 
-Project Link: [https://github.com/xhanafix/ai-blog-post-generator]([https://xhanafix.github.io/blogaku/](https://github.com/xhanafix/ai-blog-post-generator](https://xhanafix.github.io/blogaku/))
+Project Link: [https://xhanafix.github.io/blogaku/](https://xhanafix.github.io/blogaku/)
 
 ## Acknowledgments
 
